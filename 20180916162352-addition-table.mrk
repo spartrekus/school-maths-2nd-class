@@ -1,0 +1,37 @@
+!tex
+!gfx
+//!gpath{figs}
+!ipath{~/pool/mrkdir/}
+//\usepackage{gensymb}
+\usepackage{pbox}
+//\usepackage[math]{cellspace}
+//\pagestyle{headings}
+\usepackage[margin=0.5cm]{geometry}
+//!placeins
+!begin
+//!bold Example 
+//\begin{center}
+//\includegraphics[width=1.0\textwidth]{pic.png}
+//\end{center}
+
+!center addition
+
+!btable 12
+!csv + ;  1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9  ; 10 
+!csv 1 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 2 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 3 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 4 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 5 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 6 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 7 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 8 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 9 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+!csv 10 ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ; \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   ;  \pbox{2cm}{  \vspace{1cm} \\ ....... }   
+
+!etable
+
+
+
+
+
